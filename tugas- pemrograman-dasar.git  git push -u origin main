@@ -1,0 +1,46 @@
+Eksponen dan logaritna
+import math
+
+print(math.sqrt(25))
+print(math.pow(5, 3))
+print(math.log10(1000))
+print(math.log(125, 5))
+Output:
+
+5.0
+125.0
+3.0
+3.0000000000000004
+
+Nilai konstanta
+import math
+
+print(math.pi)
+print(math.e)
+print(math.tau)
+print(math.inf)
+print(-math.inf)
+print(math.nan)
+Keluaran:
+
+3.141592653589793
+2.718281828459045
+6.283185307179586
+inf
+-inf
+nan
+
+Pembulatan
+import math
+
+print(math.floor(14.8))
+print(math.floor(14.3))
+Keluaran:
+
+14
+15
+
+
+
+
+
